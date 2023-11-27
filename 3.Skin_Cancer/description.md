@@ -2,7 +2,7 @@
 ![eCommerce](Images/Skin.jpg)
 
 ## Project Overview:
-Given the rising incidence of skin cancer, particularly melanoma, and the crucial role of early detection in improving survival rates, a CNNs-based model is developed to support early-stage, skin cancer detection.
+Given the rising incidence of skin cancer, particularly melanoma, and the crucial role of early detection in improving survival rates, a CNNs-based model is developed to support early-stage detection.
 
 The dermoscopic images used to train the model encompass seven lesion types and underwent pre-processing involving resizing, normalization, and subsequent division into training, fine-tuning, and evaluation sets.
 
