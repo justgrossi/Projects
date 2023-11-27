@@ -8,6 +8,4 @@ The dermoscopic images used to train the model encompass seven lesion types and 
 
 The model architecture comprises 3 convolutional layers, 3 max-pooling layers, a flattening layer, a fully connected layer, and an output layer. Parameter tuning strategies are presented too, and different combination of epochs, batch sizes, and learning rates are evaluated showcasing the importance of parameter tuning for improved performance.
 
-Leveraging artificial intelligence (AI) and CNNs in dermatology presents a promising approach for early diagnosis and automated detection systems.
-
-The analysis demonstrates the potential of CNNs in skin cancer detection, emphasizing the non-invasive and cost-effective nature of such AI-based diagnostic tools.
+Leveraging artificial intelligence (AI) and CNNs in dermatology presents a promising approach for early diagnosis and automated detection systems. The analysis demonstrates the potential of CNNs in skin cancer detection, emphasizing the non-invasive and cost-effective nature of such AI-based diagnostic tools.
