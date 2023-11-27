@@ -1,5 +1,6 @@
 # Sales Prediction Based on e-Commerce Patterns Recognition
-![eCommerce](https://github.com/justgrossi/portfolio/1.Sales_Prediction/Images/eCommerce.jpg?raw=true)
+![eCommerce](Images/eCommerce.jpg)
+
 ## Project Overview:
 The analysis focuses on predictive analytics techniques applied to an e-commerce setting to predict browsing sessions that result in transactions. Various machine learning methodologies are extensively reviewed and Random Forest is ultimately selected due to its consistent high performance in similar studies as well.
 
