@@ -1,7 +1,7 @@
 # Portfolio
 ![Cover](Images/Cover.jpeg)
 
-This collection embodies my passion in leveraging data to derive insights, solve complex problems, and drive informed decision-making. I've unravelled the stories hidden within vast datasets, employing a combination of analytical skills, machine learning techniques, and domain knowledge to extract actionable intelligence.
+This collection embodies my passion in leveraging data to derive insights, solve complex problems, and drive informed decision-making. I unravelled the stories hidden within vast datasets, employing a combination of analytical skills, machine learning techniques, and domain knowledge to extract actionable intelligence.
 
 This diverse array of projects requires proficiency in data wrangling, exploratory data analysis, statistical modelling, and predictive analytics. Each one of them represents a journey where patterns, trends, and correlations that contribute to a deeper understanding of various domains are uncovered.
 
