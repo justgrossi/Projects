@@ -1,13 +1,13 @@
 # Portfolio
 ![Cover](Images/Cover.jpeg)
 
-Welcome to my Data Science portfolio. This collection embodies the culmination of my passion and expertise in leveraging data to derive insights, solve complex problems, and drive informed decision-making. I've dedicated myself to unraveling the stories hidden within vast datasets, employing a combination of analytical skills, machine learning techniques, and domain knowledge to extract actionable intelligence.
+This collection embodies my passion in leveraging data to derive insights, solve complex problems, and drive informed decision-making. I've unravelled the stories hidden within vast datasets, employing a combination of analytical skills, machine learning techniques, and domain knowledge to extract actionable intelligence.
 
-Throughout this portfolio, a diverse array of projects that showcase my proficiency in data wrangling, exploratory data analysis, statistical modeling, and predictive analytics is presented. Each project represents a journey into the realm of data, where I've endeavored to uncover patterns, trends, and correlations that contribute to a deeper understanding of various domains.
+This diverse array of projects showcase my proficiency in data wrangling, exploratory data analysis, statistical modelling, and predictive analytics. Each of them represents a journey into the realm of data, where I've uncovered patterns, trends, and correlations that contribute to a deeper understanding of various domains.
 
-From predictive modeling to natural language processing, from classification to clustering algorithms, these projects encapsulate my passion in harnessing the power of data to solve real-world problems. I've emphasized not only the technical aspects but also the practical applications and implications of each analyses, ensuring that the insights derived have tangible value and relevance.
+From predictive modelling to natural language processing, from classification to clustering algorithms, these projects encapsulate my passion in harnessing the power of data to solve real-world problems. I've emphasised both the technical aspects and the practical applications and implications of each analyses, ensuring that the insights derived have tangible value and relevance.
 
-Dive into the projects, and witness how data-driven insights can transform raw information into valuable solutions. Whether it's optimizing business strategies, enhancing user experiences, or gaining a comprehensive understanding of intricate phenomena, each project represents a testament to my dedication to the dynamic and impactful field of data science.
+Data-driven insights can transform raw information into valuable solutions. Whether it's optimising business strategies, enhancing user experiences, or gaining a comprehensive understanding of intricate phenomena, each project represents a testament to my dedication to the dynamic and impactful field of data science.
 
 Thank you for visiting, and I hope these projects inspire curiosity, spark innovation, and demonstrate the potential of data in shaping a smarter, more informed future.
 
@@ -21,10 +21,10 @@ Thank you for visiting, and I hope these projects inspire curiosity, spark innov
    - **Algorithm:** Decision trees, Random Forests, Gradient Boosting, K-Nearest neighbour, and Support Vector Machine.
    - **Objective:** Address real-world challenges in different industries: churn prediction in subscription-based businesses, term deposit subscriptions in telemarketing campaigns, and energy consumption forecasting.
 3. [Skin Cancer Detection](https://github.com/justgrossi/Portfolio/blob/main/3.Skin_Cancer/description.md)
-   - **Description:** The analysis emphasizes the crucial role of early detection in improving survival rates highlighting the potential of Convolutional Neural Networks-based models in skin cancer detection. The non-invasive and cost-effective nature of such AI-based diagnostic tools is stressed too.
+   - **Description:** The analysis emphasises the crucial role of early detection in improving survival rates highlighting the potential of Convolutional Neural Networks-based models in skin cancer detection. The non-invasive and cost-effective nature of such AI-based diagnostic tools is stressed too.
    - **Algorithm:** Convolutional Neural Networks.
    - **Objective:** Create a model able to accurately detect early signs of potentially malignant skin lesions analysing dermoscopic images.
 4. [Sentiment Analysis](https://github.com/justgrossi/Portfolio/blob/main/4.Sentiment_Analysis/description.md)
-   - **Description:**
+   - **Description:** Tweets acquired through Twitter APIs are analysed to surface people' sentiment toward one of the most popular short-term rental, online platforms. Positive and negative terms most frequently tweeted along with the company's name are identified.
    - **Algorithm:**
-   - **Objective:**
+   - **Objective:** This analysis aims at providing insights into the sentiment and prevailing opinions among Twitter users tweeting about the company.
