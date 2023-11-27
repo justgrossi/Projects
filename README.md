@@ -1,6 +1,6 @@
-#Portfolio
-![eCommerce](Images/Cover.jpg)
+# Portfolio
+![Cover](Images/Cover.jpeg)
 
 Collection of data science projects where artificial intelligence, machine learning, data analysis and visualisation techniques are applied on diverse domains to showcase the skills and expertise acquired.
 
-#Projects
+# Projects
