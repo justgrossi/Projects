@@ -13,13 +13,13 @@ Thank you for visiting, and I hope these projects inspire curiosity, spark innov
 
 ## Projects
 1. [Sales Prediction](https://github.com/justgrossi/Portfolio/blob/main/1.Sales_Prediction/description.md)
-  - **Description:** The analysis offers a comprehensive examination of predictive modelling in eCommerce, presenting a well-structured methodology and discussing both technical and practical implications, while also suggesting areas for further improvement and development.
-  - **Algorithm:** Random Forest.
-  - **Objective:** Create a model able to accurately predict browsing sessions leading to a purchase and offering insights into the most influential features for online purchases.
+   - **Description:** The analysis offers a comprehensive examination of predictive modelling in eCommerce, presenting a well-structured methodology and discussing both technical and practical implications, while also suggesting areas for further improvement and development.
+   - **Algorithm:** Random Forest.
+   - **Objective:** Create a model able to accurately predict browsing sessions leading to a purchase and offering insights into the most influential features for online purchases.
 2. [Comparative Analysis](https://github.com/justgrossi/Portfolio/blob/main/2.Comparative_Analysis/description.md)
-  - **Description:** The analysis offers a comparative analysis of five machine learning algorithms in relation to three different domains presenting a well-structured methodology and discussing both technical and practical implications, while also suggesting areas for further improvement and development.
-  - **Algorithm:** Decision trees, Random Forests, Gradient Boosting, K-Nearest neighbour, and Support Vector Machine.
-  - **Objective:** Address real-world challenges in different industries: churn prediction in subscription-based businesses, term deposit subscriptions in telemarketing campaigns, and energy consumption forecasting.
+   - **Description:** The analysis offers a comparative analysis of five machine learning algorithms in relation to three different domains presenting a well-structured methodology and discussing both technical and practical implications, while also suggesting areas for further improvement and development.
+   - **Algorithm:** Decision trees, Random Forests, Gradient Boosting, K-Nearest neighbour, and Support Vector Machine.
+   - **Objective:** Address real-world challenges in different industries: churn prediction in subscription-based businesses, term deposit subscriptions in telemarketing campaigns, and energy consumption forecasting.
 3. [Skin Cancer Detection](https://github.com/justgrossi/Portfolio/blob/main/3.Skin_Cancer/description.md)
   - **Description:** The analysis emphasizes the crucial role of early detection in improving survival rates highlighting the potential of Convolutional Neural Networks-based models in skin cancer detection. The non-invasive and cost-effective nature of such AI-based diagnostic tools is stressed too.
   - **Algorithm:** Convolutional Neural Networks.
