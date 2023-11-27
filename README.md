@@ -22,5 +22,5 @@ Thank you for visiting, and I hope these projects inspire curiosity, spark innov
   - **Objective:** Address real-world challenges in different industries: churn prediction in subscription-based businesses, term deposit subscriptions in telemarketing campaigns, and energy consumption forecasting.
 3. [Skin Cancer Detection](https://github.com/justgrossi/Portfolio/blob/main/3.Skin_Cancer/description.md)
   - **Description:** The analysis emphasizes the crucial role of early detection in improving survival rates highlighting the potential of Convolutional Neural Networks-based models in skin cancer detection. The non-invasive and cost-effective nature of such AI-based diagnostic tools is stressed too.
-  - **Algorithm:** Convolutional Neural Network.
+  - **Algorithm:** Convolutional Neural Networks.
   - **Objective:** Create a model able to accurately detect early signs of potentially malignant skin lesions analysing dermoscopic images.
