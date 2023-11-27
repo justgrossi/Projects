@@ -1,5 +1,5 @@
 # Machine Learning: a Comparative Analysis
-![eCommerce](Images/Comparative.jpg)
+![Comparative Analysis](Images/Comparative.jpg)
 
 ## Project Overview:
 The predictive ability of five machine learning algorithms is compared across diverse datasets. The analysis addresses real-world challenges in different industries: churn prediction in subscription-based businesses, term deposit subscriptions in relation to telemarketing campaigns, and energy consumption forecasting.

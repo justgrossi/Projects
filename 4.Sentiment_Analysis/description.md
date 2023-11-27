@@ -1,5 +1,5 @@
-# Automatic Skin Cancer Detection based on Convolutional Neural Networks
-![Skin Cancer](Images/Skin.jpg)
+# Airbnb Sentiment Analysis based on Twitter
+![eCommerce](Images/Sentiment.jpg)
 
 ## Project Overview:
 Given the rising incidence of skin cancer, particularly melanoma, and the crucial role of early detection in improving survival rates, a CNNs-based model is developed to support early-stage detection.
