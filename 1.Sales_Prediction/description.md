@@ -21,18 +21,18 @@ In summary, the analysis offers a comprehensive examination of predictive modell
 | InformationalDuration    | Seconds spent on an informational page             |
 | ProductRelated           | Number of times a product related page was visited |
 | ProductRelatedDuration   | Seconds spent on a product related page            |
-| BounceRates              | Percentage of visitors entering and leaving after  |
-|                          | visiting only one page                             |
+| BounceRates              | Percentage of visitors leaving after visiting only |
+|                          | one page                                           |
 | ExitRates                | Percentage of visitors leaving the website from a  |
 |                          | given page                                         |
 | PageValues               | Average value of pages visited before completing a |
 |                          | transaction                                        |
 | SpecialDay               | Closeness to a special day                         |
 | Month                    | Month of the year                                  |
-| OperatingSystems         | Machine's operating system                         |
+| OperatingSystems         | Machine operating system.                          |
 | Browser                  | Browser used during the session                    |
-| Region                   | Where the session originated from                  |
+| Region                   | Location the session originated from               |
 | TrafficType              | Channel the session originated from                |                                 
 | VisitorType              | Returning vs new visitor                           |
 | Weekend                  | Weekend True vs False                              |
-| Revenue                  | Purchase True vs False (target label)              |
+| Revenue                  | Purchase True vs False (i.e. target label)         |
