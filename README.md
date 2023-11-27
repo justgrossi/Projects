@@ -9,7 +9,7 @@ From predictive modelling to natural language processing, from classification to
 
 Data-driven insights can transform raw information into valuable solutions. Whether it's optimising business strategies, enhancing user experiences, or gaining a comprehensive understanding of intricate phenomena, each project represents a testament to my dedication to the dynamic and impactful field of data science.
 
-Thank you for visiting, and I hope these projects inspire curiosity, spark innovation, and demonstrate the potential of data in shaping a smarter, more informed future.
+I hope these projects inspire curiosity, spark innovation, and demonstrate the potential of data in shaping a smarter, more informed future.
 
 ## Projects
 1. [Sales Prediction](https://github.com/justgrossi/Portfolio/blob/main/1.Sales_Prediction/description.md)
