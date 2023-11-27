@@ -24,3 +24,7 @@ Thank you for visiting, and I hope these projects inspire curiosity, spark innov
    - **Description:** The analysis emphasizes the crucial role of early detection in improving survival rates highlighting the potential of Convolutional Neural Networks-based models in skin cancer detection. The non-invasive and cost-effective nature of such AI-based diagnostic tools is stressed too.
    - **Algorithm:** Convolutional Neural Networks.
    - **Objective:** Create a model able to accurately detect early signs of potentially malignant skin lesions analysing dermoscopic images.
+4. [Sentiment Analysis](https://github.com/justgrossi/Portfolio/blob/main/4.Sentiment_Analysis/description.md)
+   - **Description:**
+   - **Algorithm:**
+   - **Objective:**
