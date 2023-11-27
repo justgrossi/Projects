@@ -26,5 +26,5 @@ I hope these projects inspire curiosity, spark innovation, and demonstrate the p
    - **Objective:** Create a model able to accurately detect early signs of potentially malignant skin lesions analysing dermoscopic images.
 4. [Sentiment Analysis](https://github.com/justgrossi/Portfolio/blob/main/4.Sentiment_Analysis/description.md)
    - **Description:** Tweets acquired through Twitter APIs are analysed to surface people' sentiment toward one of the most popular short-term rental, online platforms. Positive and negative terms most frequently tweeted along with the company's name are identified.
-   - **Algorithm:**
+   - **Algorithm:** Natural Language Processing, Bing, Akin, Loughran and McDonald sentiment lexicons.
    - **Objective:** This analysis aims at providing insights into the sentiment and prevailing opinions among Twitter users tweeting about the company.
