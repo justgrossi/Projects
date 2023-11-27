@@ -20,3 +20,4 @@ Thank you for visiting, and I hope these projects inspire curiosity, spark innov
   - **Description:** The analysis offers a comparative analysis of five machine learning algorithms in relation to three different domains presenting a well-structured methodology and discussing both technical and practical implications, while also suggesting areas for further improvement and development.
    - **Algorithm:** Decision trees, Random Forests, Gradient Boosting, K-Nearest neighbour, and Support Vector Machine.
    - **Objective:** Address real-world challenges in different industries: churn prediction in subscription-based businesses, term deposit subscriptions in telemarketing campaigns, and energy consumption forecasting.
+3. [Skin Cancer Detection]()
