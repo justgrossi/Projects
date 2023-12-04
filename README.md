@@ -19,7 +19,7 @@ I hope these projects inspire curiosity, spark innovation, and demonstrate the p
 2. [Comparative Analysis](https://github.com/justgrossi/Portfolio/blob/main/2.Comparative_Analysis/description.md)
    - **Description:** Five machine learning algorithms are compared with regard to three different domains. The analysis introduces a systematic approach and explores implications encompassing both technical and practical aspects. Additionally, it recommends avenues for further enhancement and advancement.
    - **Algorithm:** Decision trees, Random Forests, Gradient Boosting, K-Nearest neighbour, and Support Vector Machine.
-   - **Objective:** Address real-world challenges in different industries: churn prediction in subscription-based businesses, term deposit subscriptions in telemarketing campaigns, and energy consumption forecasting.
+   - **Objective:** Churn prediction in subscription-based businesses, term deposit subscriptions in telemarketing campaigns, and energy consumption forecasting.
 3. [Skin Cancer Detection](https://github.com/justgrossi/Portfolio/blob/main/3.Skin_Cancer/description.md)
    - **Description:** The analysis emphasises the crucial role of early detection in improving survival rates highlighting the potential of Convolutional Neural Networks-based models in skin cancer detection. The non-invasive and cost-effective nature of such AI-based diagnostic tools is stressed too.
    - **Algorithm:** Convolutional Neural Networks.
