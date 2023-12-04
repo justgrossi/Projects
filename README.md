@@ -17,7 +17,7 @@ I hope these projects inspire curiosity, spark innovation, and demonstrate the p
    - **Algorithm:** Random Forest.
    - **Objective:** Create a model able to accurately predict browsing sessions leading to a purchase and offering insights into the most influential features for online purchases.
 2. [Comparative Analysis](https://github.com/justgrossi/Portfolio/blob/main/2.Comparative_Analysis/description.md)
-   - **Description:** The performance of five machine learning algorithms is compared with regard to three different domains. The analysis introduces a systematic approach and explores implications encompassing both technical and practical aspects. Additionally, it recommends avenues for further enhancement and advancement.
+   - **Description:** Five machine learning algorithms are compared with regard to three different domains. The analysis introduces a systematic approach and explores implications encompassing both technical and practical aspects. Additionally, it recommends avenues for further enhancement and advancement.
    - **Algorithm:** Decision trees, Random Forests, Gradient Boosting, K-Nearest neighbour, and Support Vector Machine.
    - **Objective:** Address real-world challenges in different industries: churn prediction in subscription-based businesses, term deposit subscriptions in telemarketing campaigns, and energy consumption forecasting.
 3. [Skin Cancer Detection](https://github.com/justgrossi/Portfolio/blob/main/3.Skin_Cancer/description.md)
