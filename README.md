@@ -17,13 +17,13 @@ I hope these projects inspire curiosity, spark innovation, and demonstrate the p
    - **Algorithm:** Random Forest.
    - **Objective:** Create a model able to accurately predict browsing sessions leading to a purchase and offering insights into the most influential features for online purchases.
 2. [Churn Prediction](https://github.com/justgrossi/Portfolio/blob/main/2.Churn_Prediction/description.md)
-   - **Description:** Five machine learning algorithms are compared with regard to three different domains. The analysis introduces a systematic approach and explores implications encompassing both technical and practical aspects. Additionally, it recommends avenues for further enhancement and advancement.
-   - **Algorithm:** Decision trees, Random Forests, Gradient Boosting, K-Nearest neighbour, and Support Vector Machine.
-   - **Objective:** Churn prediction in subscription-based businesses, term deposit subscriptions in telemarketing campaigns, and energy consumption forecasting.
+   - **Description:** A systematic approach to churn prediction in the credit card industry is presented highlighting the importance of predictive modelling for customer retention. All the steps for data preprocessing, handling imbalanced data, feature selection, engineering, and model parameter tuning are presented. The analysis delves into the practical implications of predictive analytics in business discussing both technical and practical implications, while also suggesting areas for further improvement and development.
+   - **Algorithm:** Decision Trees, Random Forests.
+   - **Objective:** Churn prediction in subscription-based businesses.
 3. [Energy_Consumption_Prediction](https://github.com/justgrossi/Portfolio/blob/main/3.Energy_Consumption_Prediction/description.md)
    - **Description:**
-   - **Algorithm:**
-   - **Objective:**
+   - **Algorithm:** 
+   - **Objective:** 
 4. [Skin Cancer Detection](https://github.com/justgrossi/Portfolio/blob/main/4.Skin_Cancer/description.md)
    - **Description:** The analysis emphasises the crucial role of early detection in improving survival rates highlighting the potential of Convolutional Neural Networks-based models in skin cancer detection. The non-invasive and cost-effective nature of such AI-based diagnostic tools is stressed too.
    - **Algorithm:** Convolutional Neural Networks.
