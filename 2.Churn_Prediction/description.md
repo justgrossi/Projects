@@ -10,4 +10,4 @@ Models are extensively evaluated using accuracy, precision, sensitivity, specifi
 
 Furthermore, the analysis delves into the practical implications of predictive analytics in business discussing both technical and practical implications, while also suggesting areas for further improvement and development.
 
-[Churn Prediction in the Credit Card Industry.pdf]()
+[Churn Prediction in the Credit Card Industry.pdf](https://github.com/justgrossi/Portfolio/blob/main/2.Churn_Prediction/Churn_Prediction_in_the_Credit_Card_Industry.pdf)
