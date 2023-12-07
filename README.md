@@ -20,11 +20,15 @@ I hope these projects inspire curiosity, spark innovation, and demonstrate the p
    - **Description:** Five machine learning algorithms are compared with regard to three different domains. The analysis introduces a systematic approach and explores implications encompassing both technical and practical aspects. Additionally, it recommends avenues for further enhancement and advancement.
    - **Algorithm:** Decision trees, Random Forests, Gradient Boosting, K-Nearest neighbour, and Support Vector Machine.
    - **Objective:** Churn prediction in subscription-based businesses, term deposit subscriptions in telemarketing campaigns, and energy consumption forecasting.
-3. [Skin Cancer Detection](https://github.com/justgrossi/Portfolio/blob/main/3.Skin_Cancer/description.md)
+3. [Energy_Consumption_Prediction](https://github.com/justgrossi/Portfolio/blob/main/3.Energy_Consumption_Prediction/description.md)
+   - **Description:**
+   - **Algorithm:**
+   - **Objective:**
+4. [Skin Cancer Detection](https://github.com/justgrossi/Portfolio/blob/main/4.Skin_Cancer/description.md)
    - **Description:** The analysis emphasises the crucial role of early detection in improving survival rates highlighting the potential of Convolutional Neural Networks-based models in skin cancer detection. The non-invasive and cost-effective nature of such AI-based diagnostic tools is stressed too.
    - **Algorithm:** Convolutional Neural Networks.
    - **Objective:** Create a model able to accurately detect early signs of potentially malignant skin lesions analysing dermoscopic images.
-4. [Sentiment Analysis](https://github.com/justgrossi/Portfolio/blob/main/4.Sentiment_Analysis/description.md)
+5. [Sentiment Analysis](https://github.com/justgrossi/Portfolio/blob/main/5.Sentiment_Analysis/description.md)
    - **Description:** Tweets acquired through Twitter APIs are analysed to surface people' sentiment toward one of the most popular short-term rental, online platforms. Positive and negative terms most frequently tweeted along with the company's name are identified.
    - **Algorithm:** Natural Language Processing, Bing, Afinn, Loughran and McDonald sentiment lexicons.
    - **Objective:** This analysis aims at providing insights into the sentiment and prevailing opinions among Twitter users tweeting about the company.
