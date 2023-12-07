@@ -9,3 +9,5 @@ A structured approach is adopted to develop data understanding, preparation, alg
 Models are extensively evaluated using accuracy, precision, sensitivity, specificity, R.O.C. curves, A.U.C. and confusion matrices.
 
 Furthermore, the analysis delves into the practical implications of predictive analytics in business discussing both technical and practical implications, while also suggesting areas for further improvement and development.
+
+[Churn Prediction in the Credit Card Industry.pdf]()
