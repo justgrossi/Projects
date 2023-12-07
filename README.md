@@ -17,7 +17,7 @@ I hope these projects inspire curiosity, spark innovation, and demonstrate the p
    - **Algorithm:** Random Forest.
    - **Objective:** Create a model able to accurately predict browsing sessions leading to a purchase and offering insights into the most influential features for online purchases.
 2. [Churn Prediction](https://github.com/justgrossi/Portfolio/blob/main/2.Churn_Prediction/description.md)
-   - **Description:** A systematic approach to churn prediction in the credit card industry is presented highlighting the importance of predictive modelling for customer retention. All the steps for data preprocessing, handling imbalanced data, feature selection, engineering, and model parameter tuning are presented. The analysis delves into the practical implications of predictive analytics in business discussing both technical and practical implications, while also suggesting areas for further improvement and development.
+   - **Description:** A systematic approach to churn prediction in the credit card industry is presented highlighting the importance of predictive modelling for customer retention. The analysis delves into the practical implications of predictive analytics in business discussing both technical and practical implications, while also suggesting areas for further improvement and development.
    - **Algorithm:** Decision Trees, Random Forests.
    - **Objective:** Churn prediction in subscription-based businesses.
 3. [Energy_Consumption_Prediction](https://github.com/justgrossi/Portfolio/blob/main/3.Energy_Consumption_Prediction/description.md)
