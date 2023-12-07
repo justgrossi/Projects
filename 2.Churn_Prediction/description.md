@@ -12,4 +12,4 @@ Furthermore, the analysis delves into the practical implications of predictive a
 
 [Churn Prediction in the Credit Card Industry.pdf](https://github.com/justgrossi/Portfolio/blob/main/2.Churn_Prediction/Churn_Prediction_in_the_Credit_Card_Industry.pdf)
 
-[Churn.csv]()
+[Churn.csv](https://github.com/justgrossi/Portfolio/blob/main/2.Churn_Prediction/churn.csv)
