@@ -6,7 +6,7 @@ The analysis focuses on predicting households energy consumption levels by also 
 
 It suggests avenues for future research, advocating for expanded datasets, feature refinement, and exploring behavioural changes during significant events like the COVID-19 pandemic.
 
-Models are evaluated considering a wide range of metrics such as R.M.S.E., M.A.E., R2 and M.S.E.
+Models are evaluated considering a wide range of metrics such as R.M.S.E., M.A.E., R squared and M.S.E.
 
 Overall, this research aims to deepen insights into energy consumption patterns, presenting KNN as a valuable model for effective energy management and planning.
 
