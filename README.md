@@ -20,7 +20,7 @@ I hope these projects inspire curiosity, spark innovation, and demonstrate the p
    - **Description:** A systematic approach to churn prediction in the credit card industry, highlighting the importance of predictive modelling for customer retention. The analysis delves into the practical implications of predictive analytics in business discussing both technical and practical implications.
    - **Algorithm:** Decision Trees, Random Forest.
    - **Objective:** Create a model for churn prediction in subscription-based businesses.
-3. [Energy Consumption Prediction](https://github.com/justgrossi/Portfolio/blob/main/3.Energy_Consumption_Prediction/description.md)
+3. [Energy Consumption Level Prediction](https://github.com/justgrossi/Portfolio/blob/main/3.Energy_Consumption_Prediction/description.md)
    - **Description:**
    - **Algorithm:** 
    - **Objective:** 
