@@ -21,9 +21,9 @@ I hope these projects inspire curiosity, spark innovation, and demonstrate the p
    - **Algorithm:** Decision Trees, Random Forest.
    - **Objective:** Create a model for churn prediction in subscription-based businesses.
 3. [Energy Consumption Level Prediction](https://github.com/justgrossi/Portfolio/blob/main/3.Energy_Consumption_Prediction/description.md)
-   - **Description:**
-   - **Algorithm:** 
-   - **Objective:** 
+   - **Description:** As electricity cannot be stored one of the greatest challenges is ensuring volumes fed into networks are sufficient to cope with peak hours while not excessively exceeding demand's levels. Consumer-wise accurate predictions assist developing increased awareness regarding the behaviours that lead to specific consumption levels hence enhanced budgeting and expenditure control abilities. Production-wise accurate predictions facilitate demand forecasting, capacity and production planning.
+   - **Algorithm:** K-Nearest Neighbour, Support Vector Machine.
+   - **Objective:** Create a model able to accurately predict households energy consumption levels availing of different data sources.
 4. [Skin Cancer Detection](https://github.com/justgrossi/Portfolio/blob/main/4.Skin_Cancer/description.md)
    - **Description:** The analysis emphasises the crucial role of early detection in improving survival rates highlighting the potential of Convolutional Neural Networks-based models in skin cancer detection. The non-invasive and cost-effective nature of such AI-based diagnostic tools is stressed too.
    - **Algorithm:** Convolutional Neural Networks.

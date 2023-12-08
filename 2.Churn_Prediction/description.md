@@ -2,7 +2,7 @@
 ![Churn Prediction](Images/Churn.jpg)
 
 ## Project Overview:
-The paper delves into predicting churn in the credit card industry through a Random Forest classifier. It emphasises the criticality of early detection of customer defections in subscription-based models and traditional financial landscapes. The research aims for high prediction accuracy and identifies influential features for churn prediction.
+The analysis delves into predicting churn in the credit card industry. It emphasises the criticality of early detection of customer defections in subscription-based models and traditional financial landscapes. Highly influential features for churn prediction are identified as well.
 
 A structured approach is adopted to develop data understanding, preparation, algorithm selection, modelling, and evaluation. All the steps for data preprocessing, handling imbalanced data, feature selection, engineering, and model parameter tuning are presented.
 
