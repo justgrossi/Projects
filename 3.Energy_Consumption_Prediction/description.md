@@ -8,6 +8,6 @@ It emphasises the criticality of early detection of customer defections in subsc
 
 The study explores previous work within financial sectors, noting prevalent methodologies and the challenge of class imbalance. It compares various algorithms used in similar studies, highlighting their performances and limitations in handling data imbalance.
 
-[Energy Consumption Level Prediction](https://github.com/justgrossi/Portfolio/blob/main/3.Energy_Consumption_Prediction/Energy_Consumption_Level_Prediction.pdf)
+[Energy Consumption Level Prediction.pdf](https://github.com/justgrossi/Portfolio/blob/main/3.Energy_Consumption_Prediction/Energy_Consumption_Level_Prediction.pdf)
 
 [Energy.csv](https://github.com/justgrossi/Portfolio/blob/main/3.Energy_Consumption_Prediction/energy.csv)
