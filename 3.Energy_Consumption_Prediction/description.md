@@ -2,9 +2,11 @@
 ![Energy Consumption Level Prediction](Images/Energy.jpg)
 
 ## Project Overview:
-The analysis focuses on predicting household energy consumption levels comparing the performance of different algorithms. It also explores the use of data integration from weather stations. 
+The analysis focuses on predicting households energy consumption levels by also considering weather data. It evaluates multiple algorithms emphasizing the significance of understanding energy usage amid geopolitical shifts impacting supplies.
 
-Overall, this research aims to enhance insights into energy consumption patterns, presenting KNN as a valuable model for effective energy management and planning.
+It suggests avenues for future research, advocating for expanded datasets, feature refinement, and exploring behavioural changes during significant events like the COVID-19 pandemic.
+
+Overall, this research aims to deepen insights into energy consumption patterns, presenting KNN as a valuable model for effective energy management and planning.
 
 [Energy Consumption Level Prediction.pdf](https://github.com/justgrossi/Portfolio/blob/main/3.Energy_Consumption_Prediction/Energy_Consumption_Level_Prediction.pdf)
 
