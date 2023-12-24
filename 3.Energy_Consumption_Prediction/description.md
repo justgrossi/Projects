@@ -13,3 +13,5 @@ Overall, this research aims to deepen insights into energy consumption patterns,
 [Energy Consumption Level Prediction.pdf](https://github.com/justgrossi/Portfolio/blob/main/3.Energy_Consumption_Prediction/Energy_Consumption_Level_Prediction.pdf)
 
 [Energy.csv](https://github.com/justgrossi/Portfolio/blob/main/3.Energy_Consumption_Prediction/energy.csv)
+
+[Energy Consumption Level Prediction.R](https://github.com/justgrossi/Portfolio/blob/main/3.Energy_Consumption_Prediction/Energy_Consumption_Level_Prediction.R)

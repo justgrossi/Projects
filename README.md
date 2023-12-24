@@ -1,4 +1,4 @@
-# Portfolio
+Portfolio
 ![Cover](Images/Cover.jpeg)
 
 This collection embodies my passion in leveraging data to derive insights, solve complex problems, and drive informed decision-making. I unravelled the stories hidden within vast datasets, employing a combination of analytical skills, machine learning techniques, and domain knowledge to extract actionable intelligence.
@@ -13,22 +13,22 @@ I hope these projects inspire curiosity, spark innovation, and demonstrate the p
 
 ## Projects
 1. [Sales Prediction](https://github.com/justgrossi/Portfolio/blob/main/1.Sales_Prediction/description.md)
-   - **Description:** The analysis offers a comprehensive examination of predictive modelling in eCommerce, presenting a well-structured methodology and discussing both technical and practical implications, while also suggesting areas for further improvement and development.
-   - **Algorithm:** Random Forest.
-   - **Objective:** Create a model able to accurately predict browsing sessions leading to a purchase and offering insights into the most influential features for online purchases.
+   - **Purpose:** Predict browsing sessions leading to an online eCommerce purchase.
+   - **Algorithm:** Random Forest, Logistic Regression.
+   - **Result:** Random Forest recorded the best performance: Accuracy: 87.6%; Kappa: 59.9%; F-Score: 67.2%.
 2. [Churn Prediction](https://github.com/justgrossi/Portfolio/blob/main/2.Churn_Prediction/description.md)
-   - **Description:** A systematic approach to churn prediction in the credit card industry, highlighting the importance of predictive modelling for customer retention. The analysis delves into the practical implications of predictive analytics in business discussing both technical and practical implications.
-   - **Algorithm:** Decision Trees, Random Forest.
-   - **Objective:** Create a model for churn prediction in subscription-based businesses.
+   - **Purpose:** Predict customers at risk of churning the credit card service.
+   - **Algorithm:** Decision Trees, Gradient Boosting Machine.
+   - **Result:** Gradient Boosting Machine recorded the best performance: Accuracy: 96.6%; Kappa: 87.6%; F-Score: 98%.
 3. [Energy Consumption Level Prediction](https://github.com/justgrossi/Portfolio/blob/main/3.Energy_Consumption_Prediction/description.md)
-   - **Description:** As electricity cannot be stored one of the greatest challenges is ensuring volumes fed into networks are sufficient to cope with peak hours while not excessively exceeding demand's levels. Consumer-wise accurate predictions assist developing increased awareness regarding the behaviours that lead to specific consumption levels hence enhanced budgeting and expenditure control abilities. Production-wise accurate predictions facilitate demand forecasting, capacity and production planning.
-   - **Algorithm:** K-Nearest Neighbour, Support Vector Machine.
-   - **Objective:** Create a model able to accurately predict households energy consumption levels availing of different data sources.
+   - **Purpose:** Predict energy consumption levels under varying meteorological conditions.
+   - **Algorithm:** K-Nearest Neighbour, Random Forest.
+   - **Result:** Random Forest recorded the best performance: R.M.S.E.: 12.28; RSquared: 99%; M.A.E.: 3.87; M.S.E: 150.91.
 4. [Skin Cancer Detection](https://github.com/justgrossi/Portfolio/blob/main/4.Skin_Cancer/description.md)
-   - **Description:** The analysis emphasises the crucial role of early detection in improving survival rates highlighting the potential of Convolutional Neural Networks-based models in skin cancer detection. The non-invasive and cost-effective nature of such AI-based diagnostic tools is stressed too.
-   - **Algorithm:** Convolutional Neural Networks.
-   - **Objective:** Create a model able to accurately detect early signs of potentially malignant skin lesions analysing dermoscopic images.
+   - **Purpose:** Predict skin cancer through the analysis of dermoscopic images.
+   - **Algorithm:** Convolutional Neural Network.
+   - **Result:** Create a model able to accurately detect early signs of potentially malignant skin lesions analysing dermoscopic images.
 5. [Sentiment Analysis](https://github.com/justgrossi/Portfolio/blob/main/5.Sentiment_Analysis/description.md)
-   - **Description:** Tweets acquired through Twitter APIs are analysed to surface people' sentiment toward one of the most popular short-term rental, online platforms. Positive and negative terms most frequently tweeted along with the company's name are identified.
+   - **Purpose:** Analyse Twitter sentiment toward a short-term rental, online platform.
    - **Algorithm:** Natural Language Processing, Bing, Afinn, Loughran and McDonald sentiment lexicons.
-   - **Objective:** This analysis aims at providing insights into the sentiment and prevailing opinions among Twitter users tweeting about the company.
+   - **Result:** This analysis aims at providing insights into the sentiment and prevailing opinions among Twitter users tweeting about the company.
