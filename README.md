@@ -29,6 +29,6 @@ I hope these projects inspire curiosity, spark innovation, and demonstrate the p
    - **Algorithm:** Convolutional Neural Network.
    - **Result:** Create a model able to accurately detect early signs of potentially malignant skin lesions analysing dermoscopic images.
 5. [Sentiment Analysis](https://github.com/justgrossi/Portfolio/blob/main/5.Sentiment_Analysis/description.md)
-   - **Purpose:** Analyse Twitter sentiment toward a short-term rental, online platform.
+   - **Purpose:** Analyse Twitter sentiment toward a well known short-term rental, online platform.
    - **Algorithm:** Natural Language Processing, Bing, Afinn, Loughran and McDonald sentiment lexicons.
    - **Result:** This analysis aims at providing insights into the sentiment and prevailing opinions among Twitter users tweeting about the company.
