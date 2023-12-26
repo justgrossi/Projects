@@ -8,7 +8,6 @@ library(rpart.plot)
 library(randomForest)
 library(ROCR)
 library(e1071)
-library(corrplot)
 
 # Set seed for reproducibility and acquire data
 set.seed(1234)
@@ -23,6 +22,77 @@ prop.table(table(df$Revenue))
 df$Weekend <- ifelse(df$Weekend=='TRUE', 1, 0)
 df$Revenue <- ifelse(df$Revenue=='TRUE', 1, 0)
 
+# Exploratory visualizations
+df %>% ggplot(aes(Revenue))+
+  geom_bar()+
+  theme_bw()+
+  ylab('# Samples')+
+  ggtitle('Revenue distribution')
+
+df %>% filter(Revenue==1) %>%  ggplot(aes(Revenue))+
+  geom_bar()+
+  facet_wrap(~fct_relevel(VisitorType, 'New_Visitor', 'Returning_Visitor', 'Other'))+
+  theme_bw()+
+  ylab('# Transactions')+
+  ggtitle('Revenue vs Visitor Type')
+
+df %>% filter(Revenue==1) %>% ggplot(aes(Revenue))+
+  geom_bar()+
+  facet_wrap(~Region)+
+  theme_bw()+
+  ylab('# Transactions')+
+  ggtitle('Revenue vs Region')
+
+df %>% filter(Revenue==1) %>% 
+  ggplot(aes(fct_relevel(Month,
+                         'Feb',
+                         'Mar',
+                         'May',
+                         'June',
+                         'Jul', 
+                         'Aug',
+                         'Sep',
+                         'Oct',
+                         'Nov',
+                         'Dec')))+
+  geom_bar()+
+  xlab('Month')+
+  ylab('# Transactions')+
+  theme_bw()+
+  ggtitle('Revenue vs Month')
+
+df %>% filter(Revenue==1) %>% ggplot(aes(Revenue))+
+  geom_bar()+
+  facet_wrap(~Weekend)+
+  xlab('Weekend')+
+  ylab('# Transactions')+
+  theme_bw()+
+  ggtitle('Revenue vs Weekend')
+
+df %>% filter(Revenue==1) %>% ggplot(aes(Revenue))+
+  geom_bar()+
+  facet_wrap(~OperatingSystems)+
+  xlab('Operating System')+
+  ylab('# Transactions')+
+  theme_bw()+
+  ggtitle('Revenue vs Operating System')
+
+df %>% filter(Revenue==1) %>% ggplot(aes(Revenue))+
+  geom_bar()+
+  facet_wrap(~Browser)+
+  xlab('Browser')+
+  ylab('# Transactions')+
+  theme_bw()+
+  ggtitle('Revenue vs Browser')
+
+df %>% filter(Revenue==1) %>% ggplot(aes(Revenue))+
+  geom_bar()+
+  facet_wrap(~TrafficType)+
+  theme_bw()+
+  xlab('Traffic Type')+
+  ylab('# Transactions')+
+  ggtitle('Revenue vs Traffic Type')
+
 
 Month_levels <- levels(as.factor(df$Month))
 VisitorType_levels <- levels(as.factor(df$VisitorType))
@@ -30,7 +100,6 @@ VisitorType_levels <- levels(as.factor(df$VisitorType))
 # Identify and print near-zero-variance variables
 near_zero_vars <- nearZeroVar(df)
 near_zero_var_names <- names(df)[near_zero_vars]
-
 print(near_zero_var_names)
 
 # Remove near-zero-variance variables from the data frame
@@ -247,7 +316,6 @@ View(rf_summary)
 # Show the importance of variables in terms of error reductions - higher is better
 clRfImp <- varImp(clRf)
 plot(clRfImp, top = 5)
-
 
 
 
