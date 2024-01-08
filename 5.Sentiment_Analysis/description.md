@@ -8,3 +8,6 @@ Utilizing statistical techniques and sentiment analysis tools, the collected twe
 
 Furthermore, sentiment trends and key themes are identified to understand users' perceptions, concerns, and areas of satisfaction linked to Airbnb's offerings. The project's findings are presented through visualizations, sentiment distribution graphs to offer comprehensive insights into the public perception landscape surrounding Airbnb on Twitter.
 
+[Twitter and Airbnb Sentiment and Perceptions.pdf](https://github.com/justgrossi/Portfolio/blob/main/5.Sentiment_Analysis/Twitter_and_Airbnb_Sentiment_and_Perceptions.pdf)
+
+[Twitter and Airbnb Sentiment and Perceptions.R](https://github.com/justgrossi/Portfolio/blob/main/5.Sentiment_Analysis/Twitter_and_Airbnb_Sentiment_and_Perceptions.R
