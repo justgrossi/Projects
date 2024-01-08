@@ -10,4 +10,4 @@ Furthermore, sentiment trends and key themes are identified to understand users'
 
 [Twitter and Airbnb Sentiment and Perceptions.pdf](https://github.com/justgrossi/Portfolio/blob/main/5.Sentiment_Analysis/Twitter_and_Airbnb_Sentiment_and_Perceptions.pdf)
 
-[Twitter and Airbnb Sentiment and Perceptions.R](https://github.com/justgrossi/Portfolio/blob/main/5.Sentiment_Analysis/Twitter_and_Airbnb_Sentiment_and_Perceptions.R
+[Twitter and Airbnb Sentiment and Perceptions.R](https://github.com/justgrossi/Portfolio/blob/main/5.Sentiment_Analysis/Twitter_and_Airbnb_Sentiment_and_Perceptions.R)
