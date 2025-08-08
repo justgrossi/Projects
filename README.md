@@ -1,11 +1,7 @@
 Portfolio
 ![Cover](Images/Cover.jpeg)
 
-Collection of data science projects leveraging data analytics to solve complex problems and drive strategic decision-making. Through machine learning algorithms and advanced analytical techniques, I extract actionable insights from large datasets.
-
-These projects showcase proficiency across the data science pipeline: data wrangling, exploratory analysis, statistical modeling, and predictive analytics. The portfolio spans predictive modeling, natural language processing, classification, and clustering algorithms.
-
-Each project emphasizes both technical rigor and practical application, delivering tangible insights with clear business value. They demonstrate how data-driven solutions transform raw information into strategic advantages that generate measurable impact.
+Collection of data science projects leveraging machine learning algorithms and advanced analytical techniques to solve complex problems and drive strategic decision-making. These projects showcase proficiency across the data science pipeline: data wrangling, exploratory analysis, statistical modelling, and predictive analytics. Each project emphasises both technical rigour and practical application, delivering tangible insights with clear business value. They demonstrate how data-driven solutions transform raw information into strategic advantages that generate measurable impact.
 
 ## Projects
 1. [Sales Prediction](https://github.com/justgrossi/Portfolio/blob/main/1.Sales_Prediction/description.md)
