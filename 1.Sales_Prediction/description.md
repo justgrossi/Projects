@@ -1,7 +1,7 @@
 # Sales Prediction Based on e-Commerce Patterns Recognition
 ![eCommerce](Images/eCommerce.jpg)
-<p align="justify">
 ## Objective:
+<p align="justify">
 Predict browsing sessions leading to eCommerce purchases. Random Forest and Logistic Regression are compared with the former recording the best performance.
 
 The methodology includes data preprocessing, the handling of an imbalanced data set and feature selection. Results include evaluation metrics, confusion matrix, R.O.C. curve and the extraction of the features influencing online purchases the most.
