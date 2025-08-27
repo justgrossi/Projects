@@ -2,11 +2,7 @@
 ![eCommerce](Images/eCommerce.jpg)
 ## Objective:
 <p align="justify">
-Predict browsing sessions leading to eCommerce purchases. Random Forest and Logistic Regression are compared with the former recording the best performance.
-
-The methodology includes data preprocessing, the handling of an imbalanced data set and feature selection. Results include evaluation metrics, confusion matrix, R.O.C. curve and the extraction of the features influencing online purchases the most.
-
-The analysis offers practical implications of predictive analytics in business, highlighting potential applications in marketing strategies, dynamic pricing, platform optimisation, inventory management, and strategic planning.
+Predict browsing sessions leading to eCommerce purchases. Random Forest and Logistic Regression are compared with the former recording the best performance. The methodology includes data preprocessing, the handling of an imbalanced data set and feature selection. Results include evaluation metrics, confusion matrix, R.O.C. curve and the extraction of the features influencing online purchases the most. The analysis offers practical implications of predictive analytics in business, highlighting potential applications in marketing strategies, dynamic pricing, platform optimisation, inventory management, and strategic planning.
 </p>
 
 
