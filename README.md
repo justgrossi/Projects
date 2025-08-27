@@ -7,7 +7,7 @@ Collection of data science projects covering data wrangling, exploratory analysi
    - **Objective:** Predict browsing sessions leading to eCommerce purchase.
    - **Algorithm:** Random Forest, Logistic Regression.
    - **Result:** Random Forest recorded the best performance: Accuracy: 89.2%; Kappa: 60.6%; F-Score: 89%.
-2. [Churn Prediction](https://github.com/justgrossi/Portfolio/blob/main/2.Churn_Prediction/description.md)
+2. [Churn Prediction](https://github.com/justgrossi/Portfolio/blob/main/2.Churn_Prediction/Churn_Prediction_in_the_Credit_Card_Industry.ipynb)
    - **Objective:** Predict customers at risk of churning the credit card service.
    - **Algorithm:** Decision Trees, Gradient Boosting Machine.
    - **Result:** Gradient Boosting Machine recorded the best performance: Accuracy: 96.6%; Kappa: 86.7%; F-Score: 96.5%.
