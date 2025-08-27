@@ -1,5 +1,5 @@
 ![Cover](Images/Cover.jpeg)
-
+<p align="justify">
 Collection of data science projects covering data wrangling, exploratory analysis, statistical modelling, and predictive analytics. Each project emphasises both technical and practical application, delivering tangible insights with clear business value. They demonstrate how data-driven solutions transform raw information into strategic advantages that generate measurable impact.
 
 ## Projects
@@ -23,3 +23,4 @@ Collection of data science projects covering data wrangling, exploratory analysi
    - **Objective:** Analyse Twitter sentiment toward a well known short-term rental, online platform.
    - **Algorithm:** Natural Language Processing, Bing, Afinn, Loughran and McDonald sentiment lexicons.
    - **Result:** This analysis aims at providing insights into the sentiment and prevailing opinions among Twitter users tweeting about the company.
+</p>
