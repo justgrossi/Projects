@@ -8,8 +8,7 @@ The methodology includes data preprocessing, the handling of an imbalanced data 
 
 The analysis offers practical implications of predictive analytics in business, highlighting potential applications in marketing strategies, dynamic pricing, platform optimisation, inventory management, and strategic planning.
 
-[Sales Prediction Based on e-Commerce Patterns Recognition.pdf](https://github.com/justgrossi/Portfolio/blob/main/1.Sales_Prediction/Sales_Prediction_Based_on_e_Commerce_Patterns_Recognition.pdf)
 
 [Online shoppers.csv](https://github.com/justgrossi/Portfolio/blob/main/1.Sales_Prediction/online_shoppers.csv)
 
-[Sales Prediction Based on e-Commerce Patterns Recognition.R](https://github.com/justgrossi/Portfolio/blob/main/1.Sales_Prediction/Sales_Prediction_Based_on_eCommerce_Patterns_Recognition.ipynb)
+[Sales Prediction Based on e-Commerce Patterns Recognition.ipynb](https://github.com/justgrossi/Portfolio/blob/main/1.Sales_Prediction/Sales_Prediction_Based_on_eCommerce_Patterns_Recognition.ipynb)
