@@ -3,7 +3,7 @@
 Collection of data science projects covering data wrangling, exploratory analysis, statistical modelling, and predictive analytics. Each project emphasises both technical and practical application, delivering tangible insights with clear business value. They demonstrate how data-driven solutions transform raw information into strategic advantages that generate measurable impact.
 
 ## Projects
-1. [Sales Prediction](https://github.com/justgrossi/Portfolio/blob/main/1.Sales_Prediction/description.md)
+1. [Sales Prediction](https://github.com/justgrossi/Portfolio/blob/main/1.Sales_Prediction/Sales_Prediction_Based_on_eCommerce_Patterns_Recognition.ipynb)
    - **Objective:** Predict browsing sessions leading to eCommerce purchase.
    - **Algorithm:** Random Forest, Logistic Regression.
    - **Result:** Random Forest recorded the best performance: Accuracy: 89.2%; Kappa: 60.6%; F-Score: 89%.
