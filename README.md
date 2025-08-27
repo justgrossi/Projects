@@ -10,7 +10,7 @@ Collection of data science projects covering data wrangling, exploratory analysi
 2. [Churn Prediction](https://github.com/justgrossi/Portfolio/blob/main/2.Churn_Prediction/description.md)
    - **Objective:** Predict customers at risk of churning the credit card service.
    - **Algorithm:** Decision Trees, Gradient Boosting Machine.
-   - **Result:** Gradient Boosting Machine recorded the best performance: Accuracy: 96.6%; Kappa: 87.6%; F-Score: 98%.
+   - **Result:** Gradient Boosting Machine recorded the best performance: Accuracy: 96.6%; Kappa: 86.7%; F-Score: 96.5%.
 3. [Energy Consumption Level Prediction](https://github.com/justgrossi/Portfolio/blob/main/3.Energy_Consumption_Prediction/description.md)
    - **Objective:** Predict energy consumption levels under varying meteorological conditions.
    - **Algorithm:** K-Nearest Neighbour, Random Forest.
