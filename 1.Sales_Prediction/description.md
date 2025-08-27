@@ -1,17 +1,15 @@
 # Sales Prediction Based on e-Commerce Patterns Recognition
 ![eCommerce](Images/eCommerce.jpg)
 
-## Project Overview:
-The analysis focuses on predictive analytics techniques applied to an e-commerce setting to predict browsing sessions that result in transactions. Various machine learning methodologies are extensively reviewed and Random Forest is ultimately selected due to its consistent high performance in similar studies as well.
+## Objective:
+Predict browsing sessions leading to eCommerce purchases. Random Forest and Logistic Regression are compared with the former recording the best performance.
 
-The methodology outlines steps for data preprocessing, handling imbalanced data, feature selection, and model parameter tuning. Results are thoroughly discussed, including evaluation metrics, a confusion matrix, R.O.C. curve analysis, and identification of influential features for online purchases.
+The methodology includes data preprocessing, the handling of an imbalanced data set and feature selection. Results include evaluation metrics, confusion matrix, R.O.C. curve and the extraction of the features influencing online purchases the most.
 
-Furthermore, the analysis delves into the practical implications of predictive analytics in business, highlighting potential applications in marketing strategies, dynamic pricing, platform optimisation, inventory management, and strategic planning.
-
-In summary, the analysis offers a comprehensive examination of predictive modelling in eCommerce, presenting a well-structured methodology and discussing both technical and practical implications, while also suggesting areas for further improvement and development.
+The analysis offers practical implications of predictive analytics in business, highlighting potential applications in marketing strategies, dynamic pricing, platform optimisation, inventory management, and strategic planning.
 
 [Sales Prediction Based on e-Commerce Patterns Recognition.pdf](https://github.com/justgrossi/Portfolio/blob/main/1.Sales_Prediction/Sales_Prediction_Based_on_e_Commerce_Patterns_Recognition.pdf)
 
-[Online shoppers intention.csv](https://github.com/justgrossi/Portfolio/blob/main/1.Sales_Prediction/online_shoppers_intention.csv)
+[Online shoppers.csv](https://github.com/justgrossi/Portfolio/blob/main/1.Sales_Prediction/online_shoppers.csv)
 
-[Sales Prediction Based on e-Commerce Patterns Recognition.R](https://github.com/justgrossi/Portfolio/blob/main/1.Sales_Prediction/Sales_Prediction_Based_on_eCommerce_Patterns_Recognition.R)
+[Sales Prediction Based on e-Commerce Patterns Recognition.R](https://github.com/justgrossi/Portfolio/blob/main/1.Sales_Prediction/Sales_Prediction_Based_on_eCommerce_Patterns_Recognition.ipynb)
