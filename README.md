@@ -3,10 +3,10 @@
 Collection of data science projects covering data wrangling, exploratory analysis, statistical modelling, and predictive analytics. Each project emphasises both technical and practical application, delivering tangible insights with clear business value. They demonstrate how data-driven solutions transform raw information into strategic advantages that generate measurable impact.
 
 ## Projects
-1. [Sales Prediction](https://github.com/justgrossi/Portfolio/blob/main/1.Sales_Prediction/Sales_Prediction_Based_on_eCommerce_Patterns_Recognition.ipynb)
-   - **Objective:** Predict browsing sessions leading to eCommerce purchase.
-   - **Algorithm:** Random Forest, Logistic Regression.
-   - **Result:** Random Forest recorded the best performance: Accuracy: 89.2%; Kappa: 60.6%; F-Score: 89%.
+1. [Sales Prediction](https://github.com/justgrossi/Portfolio/blob/main/1.Sales_Prediction/Sales_Prediction.ipynb)
+   - **Objective:** Predict browsing sessions leading to eCommerce purchase
+   - **Algorithm:** Extreme Gradient Boosting
+   - **Result:** Accuracy: 89.4%; F1-Score: 89.3%.
 2. [Churn Prediction](https://github.com/justgrossi/Portfolio/blob/main/2.Churn_Prediction/Churn_Prediction_in_the_Credit_Card_Industry.ipynb)
    - **Objective:** Predict customers at risk of churning the credit card service.
    - **Algorithm:** Decision Trees, Gradient Boosting Machine.
